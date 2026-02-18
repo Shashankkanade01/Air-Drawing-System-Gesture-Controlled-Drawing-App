@@ -6,7 +6,7 @@ A real-time AI-powered virtual drawing application built using
 Control your drawing canvas using only hand gestures --- no mouse, no
 touchscreen.
 
-> Built using AI-assisted development in under 25 minutes 🚀
+> Built using AI-assisted development in under 20 minutes 🚀
 
 ------------------------------------------------------------------------
 
